@@ -22,7 +22,7 @@ def main():
 
 
     # Create message
-    message = days_away+" days to electric picnic. Shout out to @EPfestival and @Seatwave. Thanks for teaming up to rip of consumers and enable touts! #greed"
+    message = days_away+" days to electric picnic. Shout out to @EPfestival and @Seatwave. Thanks for teaming up to rip off consumers and enable touts! #greed"
 
     # Post message
     post_tweet(message, keys_dict)
